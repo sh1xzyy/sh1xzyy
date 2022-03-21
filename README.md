@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sh1xzyy
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning to Web Designer
-- 💞️ I’m looking to collaborate on Freelance or 
+- 🌱 I’m currently learning to Web Designer. I can't do big projects like a store, but I can do like sites like this where
+-  there is css, html, and a little javascript and php, but I'm moving forward in web design
+- 💞️ I’m looking to collaborate Freelance 
 - 📫 How to reach me inst:memci_2

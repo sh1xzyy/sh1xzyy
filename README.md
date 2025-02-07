@@ -21,3 +21,8 @@
 </div>
 
 ###
+
+<div align="left">
+
+  ![snake gif](https://github.com/sh1xzyy/sh1xzyy/blob/output/github-snake-dark.svg)
+  </div>
